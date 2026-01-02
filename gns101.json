@@ -1,0 +1,685 @@
+{
+  "course": "GNS 101",
+  "sections": [
+    {
+      "section": "Grammatical Structures - Concord",
+      "questions": [
+        {
+          "question": "Which of the following sentences demonstrates correct subject-verb concord?",
+          "options": {
+            "A": "The news were interesting",
+            "B": "They was speaking to you",
+            "C": "Olu is reading",
+            "D": "The rotation of the wheels were fascinating"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "What is the correct form of the verb 'be' for third person singular in present tense?",
+          "options": {
+            "A": "am",
+            "B": "are",
+            "C": "is",
+            "D": "be"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which sentence shows correct concord of number?",
+          "options": {
+            "A": "He sleeps",
+            "B": "He sleep",
+            "C": "They sleeps",
+            "D": "She sleep"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "In the sentence 'Economics is a practical subject', the verb is singular because:",
+          "options": {
+            "A": "Economics is plural",
+            "B": "Economics is singular in meaning",
+            "C": "Economics requires plural verb",
+            "D": "Economics is a proper noun"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following requires a singular verb?",
+          "options": {
+            "A": "The police",
+            "B": "Nobody",
+            "C": "The members",
+            "D": "They"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In notional concord, 'The police have arrested the suspects' is correct because:",
+          "options": {
+            "A": "Police is always plural",
+            "B": "Agreement is based on the idea of number rather than grammatical marker",
+            "C": "Police is a collective noun",
+            "D": "Have is always used with police"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which sentence demonstrates correct pronoun-antecedent concord?",
+          "options": {
+            "A": "Dele is a stupid boy, he cut his finger",
+            "B": "He taught herself how to drive",
+            "C": "She hurt himself without knowing",
+            "D": "We injured themselves yesterday"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "When two singular subjects are connected by 'or', the verb should be:",
+          "options": {
+            "A": "Plural",
+            "B": "Singular",
+            "C": "Either singular or plural",
+            "D": "Past tense"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following is an exception to standard concord rules?",
+          "options": {
+            "A": "The President, in company with his wife, have arrived",
+            "B": "The President, in company with his wife, has arrived",
+            "C": "The Presidents has arrived",
+            "D": "The President have arrived"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In the phrase 'Every student and teacher', the verb should be:",
+          "options": {
+            "A": "Plural",
+            "B": "Singular",
+            "C": "Past tense",
+            "D": "Future tense"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Adverbs",
+      "questions": [
+        {
+          "question": "Adverbs are words used to modify:",
+          "options": {
+            "A": "Only verbs",
+            "B": "Only adjectives",
+            "C": "Verbs, adjectives and adverbs",
+            "D": "Only nouns"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In the sentence 'They looked anxiously at each other', 'anxiously' is an adverb of:",
+          "options": {
+            "A": "Time",
+            "B": "Place",
+            "C": "Manner",
+            "D": "Frequency"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following is an adverb of place?",
+          "options": {
+            "A": "Soon",
+            "B": "Home",
+            "C": "Quickly",
+            "D": "Never"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "'For' refers to:",
+          "options": {
+            "A": "A point in past time",
+            "B": "A period of time in past, present or future",
+            "C": "Only future time",
+            "D": "Only present time"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "'Since' refers to:",
+          "options": {
+            "A": "A period of time",
+            "B": "A point in the past time",
+            "C": "Future time",
+            "D": "Present time only"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which word is an adverb of probability?",
+          "options": {
+            "A": "Home",
+            "B": "Quickly",
+            "C": "Probably",
+            "D": "Yesterday"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "'Never' is what type of adverb?",
+          "options": {
+            "A": "Positive frequency adverb",
+            "B": "Negative adverb",
+            "C": "Adverb of manner",
+            "D": "Adverb of place"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "'Already' is used to say that something has happened:",
+          "options": {
+            "A": "Later than expected",
+            "B": "Earlier than expected",
+            "C": "At the expected time",
+            "D": "Never"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The usual order of adverbs in a sentence is:",
+          "options": {
+            "A": "Time-place-manner",
+            "B": "Place-time-manner",
+            "C": "Manner-place-time",
+            "D": "Manner-time-place"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Adverb of manner are often formed by adding:",
+          "options": {
+            "A": "-tion to a noun",
+            "B": "-ly to an adjective",
+            "C": "-ing to a verb",
+            "D": "-ed to a verb"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Common Errors in English",
+      "questions": [
+        {
+          "question": "An error is defined as:",
+          "options": {
+            "A": "A random guess or goof",
+            "B": "An unintended deviation due to non-internalization of language rules",
+            "C": "An accidental deviation due to carelessness",
+            "D": "A performance error"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A mistake is defined as:",
+          "options": {
+            "A": "A noticeable deviation from grammar",
+            "B": "Incomplete knowledge of rules",
+            "C": "A failure to utilize a known system correctly due to carelessness",
+            "D": "Non-internalization of language"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following is a source of error?",
+          "options": {
+            "A": "Using short sentences",
+            "B": "Literal translation from L1 to English",
+            "C": "Reading extensively",
+            "D": "Using formal language"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Malapropism is:",
+          "options": {
+            "A": "Correct use of words",
+            "B": "Wrong use of a word, especially in mistake for one resembling it",
+            "C": "Use of synonyms",
+            "D": "Use of antonyms"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which pair represents homophones?",
+          "options": {
+            "A": "New and knew",
+            "B": "Big and large",
+            "C": "Happy and sad",
+            "D": "Run and walk"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Tautology is:",
+          "options": {
+            "A": "Use of different words",
+            "B": "Repetition of a word in different way without adding new meaning",
+            "C": "Use of antonyms",
+            "D": "Correct grammar"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following is tautological?",
+          "options": {
+            "A": "He returned",
+            "B": "He returned back",
+            "C": "He came",
+            "D": "He left"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "An idiom is:",
+          "options": {
+            "A": "A single word",
+            "B": "A group of words with meaning different from individual words",
+            "C": "A grammatical rule",
+            "D": "A punctuation mark"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following demonstrates correct British spelling?",
+          "options": {
+            "A": "Honor",
+            "B": "Center",
+            "C": "Honour",
+            "D": "Program (for computer)"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Slang is:",
+          "options": {
+            "A": "Standard educated speech",
+            "B": "Highly colloquial language below standard educated speech",
+            "C": "Formal writing",
+            "D": "Academic language"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Prepositions",
+      "questions": [
+        {
+          "question": "A preposition shows the relationship of:",
+          "options": {
+            "A": "A noun or pronoun to other words in a sentence",
+            "B": "Only verbs to nouns",
+            "C": "Only adjectives to nouns",
+            "D": "Two verbs together"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A prepositional phrase is made up of:",
+          "options": {
+            "A": "Only a preposition",
+            "B": "A preposition and its object",
+            "C": "Two prepositions",
+            "D": "A verb and noun"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In the sentence 'The dog ran out', the word 'out' functions as:",
+          "options": {
+            "A": "A preposition",
+            "B": "An adverb",
+            "C": "A noun",
+            "D": "An adjective"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which preposition indicates the subject matter?",
+          "options": {
+            "A": "At",
+            "B": "For",
+            "C": "About",
+            "D": "With"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The preposition 'at' typically indicates:",
+          "options": {
+            "A": "Purpose",
+            "B": "Direction",
+            "C": "Duration",
+            "D": "Confidence"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which preposition is used for a specific period like weekends?",
+          "options": {
+            "A": "In",
+            "B": "On",
+            "C": "At",
+            "D": "For"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Some prepositional phrases function as:",
+          "options": {
+            "A": "Only nouns",
+            "B": "Adverbials or adjuncts modifying verbs",
+            "C": "Only verbs",
+            "D": "Only pronouns"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "'For' is used to indicate:",
+          "options": {
+            "A": "Direction",
+            "B": "Purpose or reason",
+            "C": "Subject matter",
+            "D": "Collision"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which preposition indicates the listener or reader?",
+          "options": {
+            "A": "For",
+            "B": "Of",
+            "C": "To",
+            "D": "With"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The preposition 'into' indicates:",
+          "options": {
+            "A": "Purpose",
+            "B": "Object involved in collision",
+            "C": "Time",
+            "D": "Reason"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Conjunctions",
+      "questions": [
+        {
+          "question": "A conjunction is used to connect:",
+          "options": {
+            "A": "Only words",
+            "B": "Only phrases",
+            "C": "Words, phrases or clauses",
+            "D": "Only sentences"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following is a coordinating conjunction?",
+          "options": {
+            "A": "Because",
+            "B": "Although",
+            "C": "And",
+            "D": "When"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Subordinating conjunctions connect:",
+          "options": {
+            "A": "Equal rank clauses",
+            "B": "Subordinate clauses with main clauses",
+            "C": "Only words",
+            "D": "Only phrases"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which is an example of correlative conjunctions?",
+          "options": {
+            "A": "And",
+            "B": "But",
+            "C": "Either...or",
+            "D": "Because"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The conjunction 'although' expresses:",
+          "options": {
+            "A": "Time",
+            "B": "Cause",
+            "C": "Concession",
+            "D": "Place"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which conjunction indicates purpose?",
+          "options": {
+            "A": "Where",
+            "B": "When",
+            "C": "So that",
+            "D": "Because"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The conjunction 'because' indicates:",
+          "options": {
+            "A": "Time",
+            "B": "Cause or reason",
+            "C": "Place",
+            "D": "Manner"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "'Like' should not be used as:",
+          "options": {
+            "A": "A preposition",
+            "B": "A conjunction",
+            "C": "An adjective",
+            "D": "A noun"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which conjunction indicates condition?",
+          "options": {
+            "A": "When",
+            "B": "Where",
+            "C": "If",
+            "D": "So"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Coordinating conjunctions connect clauses that are:",
+          "options": {
+            "A": "Dependent",
+            "B": "Of equal rank",
+            "C": "Subordinate",
+            "D": "Incomplete"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Punctuation Marks",
+      "questions": [
+        {
+          "question": "The main purpose of punctuation is to:",
+          "options": {
+            "A": "Make writing look attractive",
+            "B": "Mark out strings of words into manageable groups and clarify meaning",
+            "C": "Fill space",
+            "D": "Make writing longer"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A period (.) is used at the end of:",
+          "options": {
+            "A": "Questions only",
+            "B": "Exclamations only",
+            "C": "Statements thought to be complete",
+            "D": "Incomplete sentences"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A question mark is used:",
+          "options": {
+            "A": "At the end of all sentences",
+            "B": "To indicate a direct question",
+            "C": "Only in indirect speech",
+            "D": "Never in formal writing"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "An exclamation mark is used to express:",
+          "options": {
+            "A": "Only questions",
+            "B": "Strong emotion, command, or emphasis",
+            "C": "Statements only",
+            "D": "Doubt"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The comma is used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Separate smaller elements with least loss of continuity",
+            "C": "Introduce lists",
+            "D": "Show possession"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A colon (:) is used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Introduce a list or move from introduction to main point",
+            "C": "Show possession",
+            "D": "Ask questions"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A semicolon (;) is used to:",
+          "options": {
+            "A": "End all sentences",
+            "B": "Unite closely associated sentences",
+            "C": "Show possession",
+            "D": "Introduce lists"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "An apostrophe is used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Indicate possessive case or contractions",
+            "C": "Separate clauses",
+            "D": "Introduce lists"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In 'the boy's games', the apostrophe indicates:",
+          "options": {
+            "A": "Plural",
+            "B": "Possession by one boy",
+            "C": "Possession by multiple boys",
+            "D": "Contraction"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Quotation marks are mainly used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Indicate direct speech and quotations",
+            "C": "Show possession",
+            "D": "Separate clauses"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A hyphen is used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Link words or elements into compounds",
+            "C": "Show possession",
+            "D": "Introduce lists"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Round brackets () are used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Enclose explanations and extra information",
+            "C": "Show possession",
+            "D": "Separate main clauses"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The ellipsis (...) is used to:",
+          "options": {
+            "A": "End all sentences",
+            "B": "Indicate omission of letters or words",
+            "C": "Show possession",
+            "D": "Ask questions"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A dash is used to:",
+          "options": {
+            "A": "End sentences only",
+            "B": "Indicate a pause or introduce an explanation",
+            "C": "Show possession",
+            "D": "Separate all clauses"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Square brackets [] are used to:",
+          "options": {
+            "A": "End sentences",
+            "B": "Enclose information from someone other than the writer",
+            "C": "Show possession",
+            "D": "Introduce direct speech"
+          },
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,950 @@
+{
+  "course": "CHM 101",
+  "sections": [
+    {
+      "section": "General Chemistry Concepts",
+      "questions": [
+        {
+          "question": "Amount of solute dissolved in unit volume is called",
+          "options": {
+            "A": "mass",
+            "B": "concentration",
+            "C": "molality",
+            "D": "ppm"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "If 2g of NaCl is dissolved in 20g H2O, then percentage of solution is",
+          "options": {
+            "A": "5%",
+            "B": "7%",
+            "C": "9%",
+            "D": "12%"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Select the incorrect expression related to percentage composition.",
+          "options": {
+            "A": "m/m%",
+            "B": "v/v %",
+            "C": "m/v %",
+            "D": "m/d%"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "SI unit of pressure is Pa. it is equal to",
+          "options": {
+            "A": "1Nm",
+            "B": "1N/M",
+            "C": "1N/m",
+            "D": "1N/m2"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Which one is more compressible?",
+          "options": {
+            "A": "gas",
+            "B": "liquid",
+            "C": "solid",
+            "D": "solution"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Which one of following is not related to one another?",
+          "options": {
+            "A": "1L=1dm3",
+            "B": "1ml=1cm3",
+            "C": "100L=100dm3",
+            "D": "1m3=10cm3"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "1 mole of gas at STP would have",
+          "options": {
+            "A": "6.02×10^22 molecules",
+            "B": "6.02×10^23 molecules",
+            "C": "6.02+10^23 molecules",
+            "D": "6.02+10^22 molecules"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Select the concentrated solution from following",
+          "options": {
+            "A": "1N",
+            "B": "10ppm",
+            "C": "5ppm",
+            "D": "10%"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Molar volume of gas at STP is",
+          "options": {
+            "A": "22.4 dm2",
+            "B": "22.4 dm-2",
+            "C": "22.4dm3",
+            "D": "22.4m3"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Energy required to overcome a reaction is called",
+          "options": {
+            "A": "minimum potential energy",
+            "B": "activation energy",
+            "C": "maximum potential energy",
+            "D": "specific heat"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Unit of activation energy is",
+          "options": {
+            "A": "J/mol",
+            "B": "J",
+            "C": "Cal/mol",
+            "D": "erg/mol"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Moles of solute in kg of solvent is given as",
+          "options": {
+            "A": "Molarity",
+            "B": "Molality",
+            "C": "percentage",
+            "D": "parts per million"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following is temperature independent quantity?",
+          "options": {
+            "A": "mass",
+            "B": "volume",
+            "C": "density",
+            "D": "molarity"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "1 atm =",
+          "options": {
+            "A": "600torr",
+            "B": "760torr",
+            "C": "670torr",
+            "D": "700torr"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "1J=",
+          "options": {
+            "A": "1N",
+            "B": "1N/m",
+            "C": "1N/m2",
+            "D": "1N.m"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Relation between amount of energy absorbed by a substance and its concentration is given by",
+          "options": {
+            "A": "Lambert law",
+            "B": "Beer's law",
+            "C": "Avogadro's law",
+            "D": "Snell's law"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Unit of conductivity is",
+          "options": {
+            "A": "ohm-1",
+            "B": "ohm",
+            "C": "N",
+            "D": "Nm"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Formula of surfactant is",
+          "options": {
+            "A": "NaC12H25SO4",
+            "B": "NaC4H2SO4",
+            "C": "NaC10H25SO4",
+            "D": "NC12H25SO4"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Surfactants are the substances that get adsorbed at the surface and surface tension is",
+          "options": {
+            "A": "increased",
+            "B": "decreased",
+            "C": "varied",
+            "D": "remain constant"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The instrument used for measuring number of drops is",
+          "options": {
+            "A": "gravity bottle",
+            "B": "Stalagmometer",
+            "C": "pycnometer",
+            "D": "both b and c"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "What volume of 0.1M stock solution is required to prepare 25 ml of 0.06 M solution.",
+          "options": {
+            "A": "10 ml",
+            "B": "15ml",
+            "C": "20ml",
+            "D": "25ml"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "If 10ml of urea solution is dissolved in 90ml H2O, then percentage of solution is",
+          "options": {
+            "A": "v/v%",
+            "B": "v/m%",
+            "C": "m/m%",
+            "D": "m/v%"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "When unsaturated solution is concentrated up to limit, it changes into",
+          "options": {
+            "A": "unsaturated solution",
+            "B": "supersaturated solution",
+            "C": "saturated solution",
+            "D": "colloidal solution"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Surface tension can be measured by using",
+          "options": {
+            "A": "gravity bottle",
+            "B": "pycnometer",
+            "C": "conductometer",
+            "D": "both a and b"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Mass of KCl required to prepare 8% KCl is",
+          "options": {
+            "A": "5g",
+            "B": "8g",
+            "C": "10g",
+            "D": "13g"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Molecular weight of n-hexane is",
+          "options": {
+            "A": "75g/mol",
+            "B": "86g/mol",
+            "C": "88 g/mol",
+            "D": "77g/mol"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Select the statement which is not related to homogeneous mixture.",
+          "options": {
+            "A": "It has single phase",
+            "B": "It has homogeneous composition",
+            "C": "Its example is solution of sand in water",
+            "D": "It is composed of two or more different molecular or ionic substances"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A sample with white color demonstrates that absorption is",
+          "options": {
+            "A": "1%",
+            "B": "10%",
+            "C": "100%",
+            "D": "0%"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "One mole of SO2 has",
+          "options": {
+            "A": "NA atoms",
+            "B": "NA Molecules",
+            "C": "NA formula unit",
+            "D": "None"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Molecular weight of methane is",
+          "options": {
+            "A": "16g/mol",
+            "B": "14g/mol",
+            "C": "18 g/mol",
+            "D": "17g/mol"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Acid turns litmus paper",
+          "options": {
+            "A": "Red-blue",
+            "B": "blue-red",
+            "C": "Yellow",
+            "D": "orange"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the molecule is not linked by covalent bond?",
+          "options": {
+            "A": "water",
+            "B": "common salt",
+            "C": "ammonia",
+            "D": "methane"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "For 1 mole of carbon and 1 mole of helium which term is same?",
+          "options": {
+            "A": "Mass",
+            "B": "atom",
+            "C": "molecules",
+            "D": "density"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following is a concentration unit?",
+          "options": {
+            "A": "nm",
+            "B": "ml",
+            "C": "Gram",
+            "D": "ppm"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Maximum value of transmittance is",
+          "options": {
+            "A": "1",
+            "B": "10",
+            "C": "100",
+            "D": "2"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The kinetics of fading of phenolphthalein in basic solution is",
+          "options": {
+            "A": "1st order",
+            "B": "2nd order",
+            "C": "3rd order",
+            "D": "0th order"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Concentration of solute and solvent can be expressed in",
+          "options": {
+            "A": "mass",
+            "B": "volume",
+            "C": "moles",
+            "D": "all of these"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Carbon exist in",
+          "options": {
+            "A": "isomers",
+            "B": "Tautomer",
+            "C": "isotopes",
+            "D": "all of these"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Helium does not contain",
+          "options": {
+            "A": "Two protons",
+            "B": "One electron",
+            "C": "Two neutrons",
+            "D": "Two electrons"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In Tautomerism, there is change in position",
+          "options": {
+            "A": "O",
+            "B": "H",
+            "C": "bond",
+            "D": "molecule"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In aqueous solutions,",
+          "options": {
+            "A": "solvent is used in small quantity",
+            "B": "solvent is not water",
+            "C": "water is solvent",
+            "D": "solvent is used in large quantity"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which one of the following is optically active substance?",
+          "options": {
+            "A": "water",
+            "B": "sodium chloride",
+            "C": "sucrose",
+            "D": "ethanol"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In spectrophotometer light is studied as function of its",
+          "options": {
+            "A": "frequency",
+            "B": "amplitude",
+            "C": "wavelength",
+            "D": "speed"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Infrared radiations are feel as",
+          "options": {
+            "A": "visible light",
+            "B": "heat",
+            "C": "sunburn",
+            "D": "light"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Height of wave is known as",
+          "options": {
+            "A": "frequency",
+            "B": "amplitude",
+            "C": "wavelength",
+            "D": "speed"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Colored compounds show absorption at",
+          "options": {
+            "A": "all wavelengths",
+            "B": "no wavelength",
+            "C": "at specific wavelengths",
+            "D": "visible region"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Photometer measures",
+          "options": {
+            "A": "polarity",
+            "B": "absorption",
+            "C": "transmittance",
+            "D": "reflection"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "In Photometer path length through the sample containing specie is measured in",
+          "options": {
+            "A": "cm",
+            "B": "m",
+            "C": "mm",
+            "D": "nm"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "In general, plot of absorbance as a function of concentration is",
+          "options": {
+            "A": "curved",
+            "B": "non-linear",
+            "C": "linear",
+            "D": "varied"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Method of photometer is used to determine",
+          "options": {
+            "A": "wavelength",
+            "B": "absorption",
+            "C": "transmittance",
+            "D": "concentration"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "section": "Acids, Bases and Salts",
+      "questions": [
+        {
+          "question": "What happens when a blue litmus paper is dipped into an acid solution?",
+          "options": {
+            "A": "Litmus paper turns red",
+            "B": "Litmus paper turns green",
+            "C": "Colour of litmus paper vanishes out",
+            "D": "No change in the color of litmus paper"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "What happens when a dry blue litmus paper is touched to acid powder?",
+          "options": {
+            "A": "Litmus paper turns red",
+            "B": "Litmus paper turns green",
+            "C": "Colour of litmus paper vanishes out",
+            "D": "No change in the colour of litmus paper"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The color of neutral litmus solution is",
+          "options": {
+            "A": "red",
+            "B": "Blue",
+            "C": "Purple",
+            "D": "Yellow"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which one is a suitable method to find the accurate pH value?",
+          "options": {
+            "A": "pH meter",
+            "B": "pH paper",
+            "C": "Universal indicator",
+            "D": "Litmus solution"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Which one of the following statements is correct about universal indicators?",
+          "options": {
+            "A": "It is a mixture of HCl and NaOH",
+            "B": "It is a mixture of many indicators",
+            "C": "It is a solution of phenolphthalein in alcohol",
+            "D": "It is a solution of phenolphthalein in water"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "NaHCO3 formed by reaction of",
+          "options": {
+            "A": "NaOH + H2CO3",
+            "B": "NaCl + H2CO3",
+            "C": "Na2CO3 + HCl",
+            "D": "NaOH + Na2CO3"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Bases dissociate which ions in their aqueous solution?",
+          "options": {
+            "A": "Hydroxide ions",
+            "B": "Hydrogen ions",
+            "C": "Chloride ions",
+            "D": "None of the above"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Which of the following properties are shown by dilute HCl? (1) It turns blue litmus red (2) It turns red litmus blue (3) It reacts with zinc and gas is evolved (4) It reacts with solid sodium carbonate to give brisk effervescence",
+          "options": {
+            "A": "1 and 2",
+            "B": "1 and 3",
+            "C": "1, 3 and 4",
+            "D": "2, 3 and 4"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Eggshell is made up of",
+          "options": {
+            "A": "CaCO3",
+            "B": "CaO",
+            "C": "Ca(OH)2",
+            "D": "CaCl2"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A teacher gave two test tubes – one containing water and the other containing sodium hydroxide solution to two students. Then he asked them to identify the test tube containing sodium hydroxide solution. Which one of the following can be used for correctly identifying the test tube containing the solution of sodium hydroxide?",
+          "options": {
+            "A": "Blue litmus",
+            "B": "Red litmus",
+            "C": "Sodium carbonate solution",
+            "D": "Dilute HCl"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which acid is found in tamarind?",
+          "options": {
+            "A": "Citric acid",
+            "B": "Lactic acid",
+            "C": "Tartaric acid",
+            "D": "Sulphuric acid"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which one of the following types of medicines is used for treating indigestion?",
+          "options": {
+            "A": "Antibiotics",
+            "B": "Analgesic",
+            "C": "Antacid",
+            "D": "Antiseptic"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Metallic oxides are ________ in nature, but non-metallic oxides are __________ in nature. The information in which alternative completes the given statement?",
+          "options": {
+            "A": "Neutral, acidic",
+            "B": "Acidic, basic",
+            "C": "Basic, neutral",
+            "D": "Basic, acidic"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Which acid is found in bee stings?",
+          "options": {
+            "A": "Citric acid",
+            "B": "Formic acid",
+            "C": "Tartaric acid",
+            "D": "Nitric acid"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Two drops each of lemon juice, hydrochloric acid, and acetic acid were added separately to the blue litmus solution. Which of the following samples will change the color of the litmus?",
+          "options": {
+            "A": "Lemon juice",
+            "B": "Acetic acid",
+            "C": "HCl",
+            "D": "Each one"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Rain is called acid rain when it:",
+          "options": {
+            "A": "pH falls below 7",
+            "B": "pH falls below 6",
+            "C": "pH falls below 5.6",
+            "D": "pH is above 7"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which gas turns lime water milky?",
+          "options": {
+            "A": "H2",
+            "B": "N2",
+            "C": "CO2",
+            "D": "SO2"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "What happens when acid is mixed with water?",
+          "options": {
+            "A": "Heat is evolved",
+            "B": "Heat is absorbed",
+            "C": "Concentration of acid increases",
+            "D": "All of the above"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "What is the pH range of the human body?",
+          "options": {
+            "A": "7.0 – 7.8",
+            "B": "7.2 – 8.0",
+            "C": "7.0 – 8.4",
+            "D": "7.2 – 8.4"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Lime water reacts with chlorine to give",
+          "options": {
+            "A": "Bleaching powder",
+            "B": "Baking powder",
+            "C": "Baking soda",
+            "D": "Washing soda"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "What happens when an acid reacts with the base?",
+          "options": {
+            "A": "Acid neutralizes base",
+            "B": "Water is formed",
+            "C": "A salt is formed",
+            "D": "All of the above"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "section": "Atoms and Molecules",
+      "questions": [
+        {
+          "question": "If 12 grams of carbon has n atoms, then the number of atoms in 12 grams of magnesium will be:",
+          "options": {
+            "A": "2n",
+            "B": "3n",
+            "C": "n/2",
+            "D": "n"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following is correct pair of elements and its symbol?",
+          "options": {
+            "A": "Silver – Si",
+            "B": "Sodium – So",
+            "C": "Potassium – Pt",
+            "D": "Sulphur – S"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Law of conservation of mass can be derived from which postulate of Dalton's atomic theory?",
+          "options": {
+            "A": "Atoms of a given element have same mass and chemical properties",
+            "B": "Matter is made of tiny particles",
+            "C": "Atom can neither be created nor destroyed",
+            "D": "The relative number and kind of atoms are constant in a given compound"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "One atomic mass unit is a mass unit equal to exactly one twelfth (1/12th) the mass of one atom of ___________.",
+          "options": {
+            "A": "Carbon-12",
+            "B": "Nitrogen -14",
+            "C": "Carbon-1",
+            "D": "Silicon-14"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Who gave the Law of constant proportions?",
+          "options": {
+            "A": "Cavendish",
+            "B": "Proust",
+            "C": "Dalton",
+            "D": "Lavoisier"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "What is the mass of 0.5 mole of Hydrogen atom",
+          "options": {
+            "A": "2.0g",
+            "B": "1.5g",
+            "C": "1g",
+            "D": "0.5g"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Which of the following is the correct IUPAC symbol for the element Cobalt?",
+          "options": {
+            "A": "Co",
+            "B": "Cb",
+            "C": "C",
+            "D": "None of these"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The balancing of chemical equation is based upon:",
+          "options": {
+            "A": "Law of conservation of mass",
+            "B": "Law of multiple proportions",
+            "C": "Law of definite proportion",
+            "D": "Law of combining volumes"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "NaCl molecule is made of which of the following ions?",
+          "options": {
+            "A": "Na cation and Cl anion",
+            "B": "Cl cation and Na anion",
+            "C": "Both Na and Cl cation",
+            "D": "Both Na and Cl anion"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "During a chemical reaction, the sum of the masses of the reactants and products remains unchanged. This is known as",
+          "options": {
+            "A": "Law of conservation of mass",
+            "B": "Law of multiple proportion",
+            "C": "Law of constant proportion",
+            "D": "None of these"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Which constituent of air is monoatomic?",
+          "options": {
+            "A": "Argon",
+            "B": "Water vapour",
+            "C": "Oxygen",
+            "D": "Nitrogen"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Which of the following has maximum number of atoms?",
+          "options": {
+            "A": "18g of H2O",
+            "B": "18g of O2",
+            "C": "18g of CO2",
+            "D": "18g of CO4"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A change in the physical state can be brought about",
+          "options": {
+            "A": "Only when energy is given to the system",
+            "B": "Only when energy is taken out from the system",
+            "C": "When energy is either given to, or taken out from the system",
+            "D": "Without any energy change"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which has maximum number of molecules?",
+          "options": {
+            "A": "1g of CO2",
+            "B": "1g of N2",
+            "C": "1g of H2",
+            "D": "1g of CH4"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "How many times an atom of sulphur is heavier than an atom of carbon?",
+          "options": {
+            "A": "32 times",
+            "B": "12 times",
+            "C": "8/3 times",
+            "D": "12/32 times"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following represents 12 u?",
+          "options": {
+            "A": "Mass of 1 hydrogen atom",
+            "B": "Mass of C-12 atom",
+            "C": "Mass of O-16 atom",
+            "D": "1/12th of mass of C-12 atom"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Which of the following would weigh the highest?",
+          "options": {
+            "A": "0.2 mole of sucrose (C12H22O11)",
+            "B": "2 moles of CO2",
+            "C": "2 moles of CaCO3",
+            "D": "10 moles of H2O"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The molecule having an atomicity of 4 is:",
+          "options": {
+            "A": "Sulphate molecule",
+            "B": "Ozone molecule",
+            "C": "Phosphorus molecule",
+            "D": "Methane molecule"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The chemical symbol for sodium is",
+          "options": {
+            "A": "So",
+            "B": "Sd",
+            "C": "NA",
+            "D": "Na"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Who was the first to use the symbols for elements?",
+          "options": {
+            "A": "Joseph L Proust",
+            "B": "Berzillius",
+            "C": "Antoine L Lavoisier",
+            "D": "Dalton"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The number of moles of oxygen atoms in two moles of nitric acid is:",
+          "options": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "6"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Which one of the following is the modern symbol of Gold?",
+          "options": {
+            "A": "Gi",
+            "B": "Go",
+            "C": "Si",
+            "D": "Au"
+          },
+          "answer": "D"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+
+{
+  "course": "PHS 105",
+  "sections": [
+    {
+      "section": "Kinematics and Motion",
+      "questions": [
+        {
+          "question": "A body is thrown vertically upward with velocity u, the greatest height h to which it will rise is",
+          "options": {
+            "A": "u/g",
+            "B": "u²/2g",
+            "C": "u²/g",
+            "D": "u/2g"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "An object travels 20 m in 5 sec and then another 40 m in 5 sec. What is the average speed of the object?",
+          "options": {
+            "A": "6 m/s",
+            "B": "2 m/s",
+            "C": "12 m/s",
+            "D": "0 m/s"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The numerical ratio of displacement to distance for a moving object is",
+          "options": {
+            "A": "Always less than 1",
+            "B": "Always equal to 1",
+            "C": "Always more than 1",
+            "D": "Equal or less than 1"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The S.I. unit of acceleration is:",
+          "options": {
+            "A": "ms⁻²",
+            "B": "ms",
+            "C": "ms²",
+            "D": "m"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "If the displacement of an object is proportional to square of time, then the object moves with",
+          "options": {
+            "A": "Uniform velocity",
+            "B": "Uniform acceleration",
+            "C": "Increasing acceleration",
+            "D": "Decreasing acceleration"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "In which of the following cases of motions, the distance moved and the magnitude of the displacement is equal? i. If the car is moving on a straight road ii. If the car is moving in a circular path iii. The pendulum is moving to and fro iv. The earth is moving around the sun",
+          "options": {
+            "A": "Only (ii)",
+            "B": "(i) and (iii)",
+            "C": "(ii) and (iv)",
+            "D": "Only (i)"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Suppose a boy is enjoying a ride on a merry-go-round which is moving at a constant speed of 10 ms⁻¹ it implies that the boy is",
+          "options": {
+            "A": "At rest",
+            "B": "Moving with no acceleration",
+            "C": "In accelerated motion",
+            "D": "Moving with uniform velocity"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following situations are not possible?",
+          "options": {
+            "A": "A body moving with constant acceleration but with zero velocity",
+            "B": "A body moving horizontally with acceleration in vertical direction",
+            "C": "A body moving with a constant velocity in an accelerated motion",
+            "D": "All of these"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Area under a v-t graph represents a physical quantity which has the unit",
+          "options": {
+            "A": "m²",
+            "B": "m",
+            "C": "m³",
+            "D": "ms⁻¹"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "A worker covers a distance of 40 km from his house to his place of work, and 10 km towards his house back. Then the displacement covered by the worker in the whole trip is",
+          "options": {
+            "A": "Zero km",
+            "B": "10 km",
+            "C": "30 km",
+            "D": "50 km"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Choose the correct option:",
+          "options": {
+            "A": "Distance is a scalar, velocity is a vector, and acceleration is a vector",
+            "B": "Distance is a vector, velocity is a scalar, and acceleration is a vector",
+            "C": "Distance is a vector, velocity is a vector, and acceleration is a vector",
+            "D": "Distance is a scalar, velocity is a vector, and acceleration is a scalar"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Acceleration is a vector quantity, which indicates that its value",
+          "options": {
+            "A": "Is always negative",
+            "B": "Is always positive",
+            "C": "Is zero",
+            "D": "Can be positive, negative or zero"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Name the instrument used to measure instantaneous speed of a vehicle",
+          "options": {
+            "A": "Multimeter",
+            "B": "Ammeter",
+            "C": "Speedometer",
+            "D": "Accelerator"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Slope of a velocity-time graph gives",
+          "options": {
+            "A": "The distance",
+            "B": "The displacement",
+            "C": "The acceleration",
+            "D": "The speed"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following is a correct measure of velocity?",
+          "options": {
+            "A": "30 s",
+            "B": "30 m/s",
+            "C": "30 South",
+            "D": "30 m/s, South"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "In which of the following cases of motions, the distance moved and the magnitude of displacement are equal?",
+          "options": {
+            "A": "If the car is moving on a straight road",
+            "B": "If the car is moving in a Circular path",
+            "C": "The pendulum is moving to and fro",
+            "D": "The earth is revolving around the sun"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "180° plane angle is equal to",
+          "options": {
+            "A": "π/2 radian",
+            "B": "π radian",
+            "C": "2π radian",
+            "D": "None of these"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The velocity-time graph of an object is given below. The object has",
+          "options": {
+            "A": "Uniform velocity",
+            "B": "Uniform speed",
+            "C": "Uniform retardation",
+            "D": "Variable acceleration"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "1 km/h = ________ m/s",
+          "options": {
+            "A": "3/50",
+            "B": "18/5",
+            "C": "50/3",
+            "D": "5/18"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "A body is projected vertically upward from the ground. Taking vertical upward direction as positive and point of projection as origin, the sign of displacement of the body from the origin when it is at height h during the upward and downward journey will be",
+          "options": {
+            "A": "Positive, positive",
+            "B": "Positive, negative",
+            "C": "Negative, negative",
+            "D": "Negative, positive"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The speed at any instant of time is known as",
+          "options": {
+            "A": "Velocity",
+            "B": "Given speed",
+            "C": "Average speed",
+            "D": "Instantaneous speed"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "A racing car has a uniform acceleration of 6 m/s². In 10s it will cover:",
+          "options": {
+            "A": "300 m",
+            "B": "100 m",
+            "C": "200 m",
+            "D": "350 m"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The equations of motion can be derived by using:",
+          "options": {
+            "A": "Distance – time graph",
+            "B": "Velocity – time graph for non-uniform acceleration",
+            "C": "Displacement time graph",
+            "D": "Velocity – time graph for uniform acceleration"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The ratio of speed to the magnitude of velocity when the body is moving in one direction is",
+          "options": {
+            "A": "Less than one",
+            "B": "Greater than one",
+            "C": "Equal to one",
+            "D": "Greater than or equal to one"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A body performs an accelerated motion, with uniform speed. The motion of the body is",
+          "options": {
+            "A": "Linear",
+            "B": "Circular",
+            "C": "Parabolic",
+            "D": "Irregular"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Which of the following situations is possible?",
+          "options": {
+            "A": "An object can have acceleration, but constant velocity",
+            "B": "The velocity of an object may be zero but acceleration is not zero",
+            "C": "Distance and the magnitude of displacement are equal in a circular motion",
+            "D": "Average speed and the magnitude of average velocity are always equal in a circular motion"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "If car A is at 40 km/h and car B is at 10 km/h in the opposite direction, what is the velocity of car A relative to car B?",
+          "options": {
+            "A": "40 km/h",
+            "B": "50 km/h",
+            "C": "10 km/h",
+            "D": "30 km/h"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "Gravitation and Forces",
+      "questions": [
+        {
+          "question": "Two objects of different masses falling freely near the surface of the moon would",
+          "options": {
+            "A": "Have same velocities at any instant",
+            "B": "Have different acceleration",
+            "C": "Experience forces of same magnitude",
+            "D": "Undergo a change in their inertia"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The value of acceleration due to gravity",
+          "options": {
+            "A": "is same on equator and poles",
+            "B": "is least on poles",
+            "C": "is least on equator",
+            "D": "Increases from pole to equator"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The gravitational force between two objects is F. If masses of both objects are halved without changing the distance between them, then the gravitational force would become",
+          "options": {
+            "A": "F/4",
+            "B": "F/2",
+            "C": "F",
+            "D": "2F"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A boy is whirling a stone tied to a string in a horizontal circular path. If the string breaks, the stone",
+          "options": {
+            "A": "Will continue to move in the circular path",
+            "B": "Will move along a straight line towards the centre of the circular path",
+            "C": "Will move along a straight line tangential to the circular path",
+            "D": "Will move along a straight line perpendicular to the circular path away from the boy"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "An object is put one by one in three liquids having different densities. The object floats with 1/9, 2/11 and 3/7 parts of their volumes outside the liquid surface in liquids of densities d1, d2 and d3 respectively. Which of the following statement is correct?",
+          "options": {
+            "A": "d1 > d2 > d3",
+            "B": "d1 > d2 < d3",
+            "C": "d1 < d2 > d3",
+            "D": "d1 < d2 < d3"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "In the relation F = GMm/d², the quantity G",
+          "options": {
+            "A": "Depends on the value of g at the place of observation",
+            "B": "Is used only when the Earth is one of the two masses",
+            "C": "is greatest at the surface of the Earth",
+            "D": "Is universal constant of nature"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Law of gravitation gives the gravitational force between",
+          "options": {
+            "A": "The Earth and a point mass only",
+            "B": "The Earth and Sun only",
+            "C": "Any two bodies having some mass",
+            "D": "Two charged bodies only"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The value of quantity G in the law of gravitation",
+          "options": {
+            "A": "Depends on mass of Earth only",
+            "B": "Depends on radius of Earth only",
+            "C": "Depends on both mass and radius of Earth",
+            "D": "Is independent of mass and radius of the Earth"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Two particles are placed at some distance. If the mass of each of the two particles is doubled, keeping the distance between them unchanged, the value of gravitational force between them will be",
+          "options": {
+            "A": "1/4 times",
+            "B": "4 times",
+            "C": "1/2 times",
+            "D": "Unchanged"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The atmosphere is held to the Earth by",
+          "options": {
+            "A": "Gravity",
+            "B": "Wind",
+            "C": "Clouds",
+            "D": "Earth's magnetic field"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "The force of attraction between two unit point masses separated by a unit distance is called",
+          "options": {
+            "A": "Gravitational potential",
+            "B": "Acceleration due to gravity",
+            "C": "Gravitational field",
+            "D": "Universal gravitational constant"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The weight of an object at the centre of the Earth of radius R is",
+          "options": {
+            "A": "Zero",
+            "B": "Infinite",
+            "C": "R times the weight at the surface of the Earth",
+            "D": "1/R² times the weight at surface of the Earth"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "An object weighs 10 N in air. When immersed fully in water, it weighs only 8 N. The weight of the liquid displaced by the object will be",
+          "options": {
+            "A": "2 N",
+            "B": "8 N",
+            "C": "10 N",
+            "D": "12 N"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A girl stands on a box having 60 cm length, 40 cm breadth and 20 cm width in three ways. In which of the following cases, pressure exerted by the box will be",
+          "options": {
+            "A": "Maximum when length and breadth form the base",
+            "B": "Maximum when breadth and width form the base",
+            "C": "Maximum when width and length form the base",
+            "D": "The same in all the above three cases"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "An apple falls from a tree because of gravitational attraction between the Earth and the apple. If F1 is the magnitude of force exerted by the Earth on the apple and F2 is the magnitude of force exerted by the apple on the Earth, then",
+          "options": {
+            "A": "F1 is very much greater than F2",
+            "B": "F2 is very much greater than F1",
+            "C": "F1 is only a little greater than F2",
+            "D": "F1 and F2 are equal"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The acceleration due to gravity on the Earth depends upon the",
+          "options": {
+            "A": "Mass of the body",
+            "B": "Mass of the Earth",
+            "C": "Shape and size of the body",
+            "D": "Volume of the body"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "When a mango falls from a mango tree then",
+          "options": {
+            "A": "Only the Earth attracts the mango",
+            "B": "Only the mango attracts the Earth",
+            "C": "Both the mango and the Earth attract each other",
+            "D": "Both the mango and the Earth repel each other"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "When a ship floats in sea water",
+          "options": {
+            "A": "The weight of water displaced is greater than the weight of ship",
+            "B": "The weight of water displaced is less than the weight of the ship",
+            "C": "The weight of water displaced is equal to the weight of the ship",
+            "D": "It displaces no water"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The SI unit of pressure is",
+          "options": {
+            "A": "Nm²",
+            "B": "N/m",
+            "C": "N/m²",
+            "D": "N²/m²"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "If the gravitational attraction of the Earth suddenly disappears, which of the following statements will be true?",
+          "options": {
+            "A": "The weight of body will become zero but the mass will remain same",
+            "B": "The weight of a body will remain same but the mass will become zero",
+            "C": "Both mass and weight become zero",
+            "D": "Neither mass nor weight becomes zero"
+          },
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "section": "General Questions - Temperature and Heat",
+      "questions": [
+        {
+          "question": "Y has the same value both in degree centigrade and Fahrenheit scale what is Y?",
+          "options": {
+            "A": "0",
+            "B": "212",
+            "C": "100",
+            "D": "-40"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "How long will it take 1000W heater, 100g of water from 50°C to 70°C? Take water = 4200 Jkg⁻¹K⁻¹.",
+          "options": {
+            "A": "2.78 s",
+            "B": "48.5 s",
+            "C": "0.012 s",
+            "D": "0.14 mins"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A brass of length 100m increases to 100.5m when heated from 50°C to 100°C. Calculate its superficial expansivity.",
+          "options": {
+            "A": "10⁻⁴ K⁻¹",
+            "B": "0.01 K⁻¹",
+            "C": "2 x 10⁻⁴ °C⁻¹",
+            "D": "None"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "Which of the following mode of heat transfer do not require medium for its propagation?",
+          "options": {
+            "A": "Radiation",
+            "B": "Conduction",
+            "C": "Convection",
+            "D": "None"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "What quantity of heat is needed to melt 120g of ice at -20°C to water at 30°C? (Take C of water to be 4200 Jkg⁻¹K⁻¹, C for ice = 2100 Jkg⁻¹K⁻¹, C for ice is 3.36 x 10⁵ J/K)",
+          "options": {
+            "A": "60.48 x 10³ J",
+            "B": "2.23 kJ",
+            "C": "6048 MJ",
+            "D": "None"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "Calculate the amount of thermal that flows per day through a solid oak wall 10cm thick, 3m long and 2.44m high. If the temperature of the outside wall is 21.1°C while the temperature of the inside wall is -6.67°C (Take K to be 1.47 x 10⁻¹ J/ms°C)",
+          "options": {
+            "A": "8.46 x 10⁻¹ J",
+            "B": "8.46 x 10⁷ J",
+            "C": "1.14 x 10³ J",
+            "D": "210 x 10³ J"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "The total surface area of a human body is 1.2m² while the surface temperature is 30°C. If the surroundings are at temperature of 20°C. If the body is black body, find the total rate of radiation of energy from the body",
+          "options": {
+            "A": "574 W",
+            "B": "72.04 W",
+            "C": "5.74 W",
+            "D": "631 W"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "section": "General Questions - Advanced Kinematics",
+      "questions": [
+        {
+          "question": "A car starts from rest and accelerates uniformly until it reaches a velocity of 30m/s after 5s. It travels with uniform velocity for 15s and is then brought to rest in 10s with a uniform retardation. What is the average speed?",
+          "options": {
+            "A": "22.5 m/s",
+            "B": "675 m/s",
+            "C": "3 m/s",
+            "D": "6 m/s"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "A ball is thrown up vertically with a velocity of 40m/s. calculate the time spent in air",
+          "options": {
+            "A": "2 s",
+            "B": "0 s",
+            "C": "8 s",
+            "D": "4 s"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A tennis ball is projected with a velocity of 3m/s at an angle 30° to the horizontal, calculate the time of flight in seconds",
+          "options": {
+            "A": "5.2",
+            "B": "2.6",
+            "C": "0.3",
+            "D": "0.15"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "A particle makes 240 r.p.m on a circle of 2m radius, find its acceleration.",
+          "options": {
+            "A": "0.25 m/s²",
+            "B": "128π² m/s²",
+            "C": "16π m/s",
+            "D": "32 m/s²"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "Two masses 3.6 x 10²⁴ kg and 1.0 x 10² kg has a separation of 6.0 x 10⁶ km between their centres. What is the force between them? G = 6.67 x 10⁻¹¹ Nm²kg⁻²",
+          "options": {
+            "A": "6.67 KN",
+            "B": "6.67 MN",
+            "C": "6.67 GN",
+            "D": "0.667 MN"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "Which of the following is not correct about projectile?",
+          "options": {
+            "A": "The motion along the horizontal is constant",
+            "B": "The motion along the vertical varies",
+            "C": "It has a vertical downward acceleration",
+            "D": "The motion carries out one independent motion"
+          },
+          "answer": "D"
+        },
+        {
+          "question": "The force with which the earth pulls any object is the",
+          "options": {
+            "A": "Mass of the object",
+            "B": "Gravity of the object",
+            "C": "Density of the object",
+            "D": "Weight of the object"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "section": "Simple Harmonic Motion",
+      "questions": [
+        {
+          "question": "An object moving with S.H.M has an amplitude of 5cm and a frequency of 50Hz. Acceleration at the middle of oscillation",
+          "options": {
+            "A": "0 m/s²",
+            "B": "43936 m/s²",
+            "C": "15.7 m/s²",
+            "D": "42 m/s²"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "An object moving with S.H.M has an amplitude of 5cm and a frequency of 50Hz. Acceleration at the end of oscillation",
+          "options": {
+            "A": "0 m/s²",
+            "B": "43936 m/s²",
+            "C": "15.7 m/s²",
+            "D": "42 m/s²"
+          },
+          "answer": "B"
+        },
+        {
+          "question": "An object moving with S.H.M has an amplitude of 5cm and a frequency of 50Hz. Velocity at the end of oscillation",
+          "options": {
+            "A": "0 m/s",
+            "B": "43936 m/s²",
+            "C": "15.7 m/s²",
+            "D": "42 m/s"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "An object moving with S.H.M has an amplitude of 5cm and a frequency of 50Hz. Velocity at the middle of oscillation",
+          "options": {
+            "A": "0 m/s",
+            "B": "43936 m/s²",
+            "C": "15.7 m/s",
+            "D": "0 m/s"
+          },
+          "answer": "C"
+        },
+        {
+          "question": "The period of simple pendulum X is 1.5s. What is the period of simple pendulum Y which makes 500 vibrations in the time it takes X to make 400 vibrations?",
+          "options": {
+            "A": "1.2 s",
+            "B": "3 s",
+            "C": "1.875 s",
+            "D": "0.53 s"
+          },
+          "answer": "A"
+        },
+        {
+          "question": "When a body is performing S.H.M, its acceleration",
+          "options": {
+            "A": "is constant",
+            "B": "Varies with displacement from equilibrium positions",
+            "C": "Is zero",
+            "D": "Moves irregularly with time"
+          },
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}
