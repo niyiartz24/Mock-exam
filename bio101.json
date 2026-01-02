@@ -1,0 +1,535 @@
+{
+"course": "BIO 101",
+"sections": [
+{
+"section": "Botanical Morphology: Fruits",
+"questions": [
+{
+"question": "What are fruits formed without fertilization, which are usually seedless, called?",
+"options": {
+"A": "True fruits",
+"B": "Parthenocarpic fruits",
+"C": "Aggregate fruits",
+"D": "Simple fruits"
+},
+"answer": "B"
+},
+{
+"question": "Which layer of the pericarp is the inner layer?",
+"options": {
+"A": "Epicarp",
+"B": "Mesocarp",
+"C": "Endocarp",
+"D": "Exocarp"
+},
+"answer": "C"
+},
+{
+"question": "A fruit formed from a single flower with an apocarpous (separate) pistil is a/an:",
+"options": {
+"A": "Simple fruit",
+"B": "Aggregate fruit",
+"C": "Multiple fruit",
+"D": "False fruit"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following is an example of a multiple (compound) fruit?",
+"options": {
+"A": "Tomato",
+"B": "Mango",
+"C": "Pineapple",
+"D": "Cowpea"
+},
+"answer": "C"
+},
+{
+"question": "A simple fruit with a well-developed pericarp and usually one seed, like a mango, is a:",
+"options": {
+"A": "Berry",
+"B": "Pome",
+"C": "Drupe",
+"D": "Hesperidium"
+},
+"answer": "C"
+},
+{
+"question": "Which fruit type is characterized by a fleshy endocarp and is usually many-seeded, such as a tomato?",
+"options": {
+"A": "Drupe",
+"B": "Berry",
+"C": "Sorosis",
+"D": "Achene"
+},
+"answer": "B"
+},
+{
+"question": "What type of fruit is an orange, characterized by distinct chambers separated by sheets of endocarp?",
+"options": {
+"A": "Pome",
+"B": "Syconus",
+"C": "Hesperidium",
+"D": "Caryopsis"
+},
+"answer": "C"
+},
+{
+"question": "A simple dry fruit formed from a superior monocarpous pistil that splits along two sutures is a:",
+"options": {
+"A": "Follicle",
+"B": "Legume",
+"C": "Capsule",
+"D": "Siliqua"
+},
+"answer": "B"
+},
+{
+"question": "Which dry dehiscent fruit splits at more than two sutures, such as Okro or Cotton?",
+"options": {
+"A": "Schizocarp",
+"B": "Follicle",
+"C": "Capsule",
+"D": "Legume"
+},
+"answer": "C"
+},
+{
+"question": "A small one-seeded fruit whose pericarp and seed coat fuse, as seen in Maize, is a:",
+"options": {
+"A": "Nut",
+"B": "Samara",
+"C": "Caryopsis",
+"D": "Cypsela"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Cytology: Cell Structure",
+"questions": [
+{
+"question": "Who first saw the remains of dead cells in a piece of cork in 1665?",
+"options": {
+"A": "Theodor Schwann",
+"B": "Mathias Schleiden",
+"C": "Robert Hooke",
+"D": "Rudolf Virchow"
+},
+"answer": "C"
+},
+{
+"question": "Which scientist stated that 'cells come only from pre-existing cells'?",
+"options": {
+"A": "Robert Hooke",
+"B": "Rudolf Virchow",
+"C": "Theodor Schwann",
+"D": "Mathias Schleiden"
+},
+"answer": "B"
+},
+{
+"question": "Which organelle is responsible for regulating the flow of materials between the cell and its surroundings?",
+"options": {
+"A": "Cell wall",
+"B": "Plasma membrane",
+"C": "Endoplasmic reticulum",
+"D": "Golgi complex"
+},
+"answer": "B"
+},
+{
+"question": "Which organelle is the site of protein manufacture and contains RNA?",
+"options": {
+"A": "Mitochondria",
+"B": "Ribosomes",
+"C": "Lysosomes",
+"D": "Vacuoles"
+},
+"answer": "B"
+},
+{
+"question": "Which organelle is responsible for the storage, modification, and packaging of secretory products?",
+"options": {
+"A": "Mitochondria",
+"B": "Golgi complex",
+"C": "Chloroplast",
+"D": "Nucleolus"
+},
+"answer": "B"
+},
+{
+"question": "The 'powerhouse of the cell' where ATP is produced is the:",
+"options": {
+"A": "Chloroplast",
+"B": "Nucleus",
+"C": "Mitochondrion",
+"D": "Centriole"
+},
+"answer": "C"
+},
+{
+"question": "Which organelle contains the green pigment chlorophyll and is the site of photosynthesis?",
+"options": {
+"A": "Chromoplast",
+"B": "Leucoplast",
+"C": "Chloroplast",
+"D": "Mitochondrion"
+},
+"answer": "C"
+},
+{
+"question": "The fluid-filled space in a plant cell that contains cell sap is the:",
+"options": {
+"A": "Cytosol",
+"B": "Nucleoplasm",
+"C": "Vacuole",
+"D": "Stroma"
+},
+"answer": "C"
+},
+{
+"question": "Which structure is composed of tubulin and moves chromosomes during cell division?",
+"options": {
+"A": "Microfilaments",
+"B": "Microtubules",
+"C": "Ribosomes",
+"D": "Lysosomes"
+},
+"answer": "B"
+},
+{
+"question": "Prokaryotic cells differ from eukaryotic cells because they lack a:",
+"options": {
+"A": "Plasma membrane",
+"B": "Cell wall",
+"C": "Membrane-bound nucleus",
+"D": "Cytoplasm"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Genetics and Heredity",
+"questions": [
+{
+"question": "What is the basic structural and functional unit of heredity?",
+"options": {
+"A": "Chromosome",
+"B": "Locus",
+"C": "Gene",
+"D": "Allele"
+},
+"answer": "C"
+},
+{
+"question": "Alternative forms of a gene located on the same locus are called:",
+"options": {
+"A": "Genotypes",
+"B": "Alleles",
+"C": "Hybrids",
+"D": "Phenotypes"
+},
+"answer": "B"
+},
+{
+"question": "In a monohybrid cross, what is the phenotypic ratio of the F2 generation?",
+"options": {
+"A": "1:1",
+"B": "2:1",
+"C": "3:1",
+"D": "9:3:3:1"
+},
+"answer": "C"
+},
+{
+"question": "Which law states that characters behave as separate units and are inherited independently?",
+"options": {
+"A": "Law of Segregation",
+"B": "Law of Independent Assortment",
+"C": "Law of Dominance",
+"D": "Law of Heredity"
+},
+"answer": "B"
+},
+{
+"question": "An organism with two identical alleles for a trait (e.g., TT) is:",
+"options": {
+"A": "Heterozygous",
+"B": "Homozygous",
+"C": "Hemizygous",
+"D": "Hybrid"
+},
+"answer": "B"
+},
+{
+"question": "The observable characteristics of an individual are known as the:",
+"options": {
+"A": "Genotype",
+"B": "Phenotype",
+"C": "Allele",
+"D": "Locus"
+},
+"answer": "B"
+},
+{
+"question": "Which cross is used to determine if a dominant individual is homozygous or heterozygous?",
+"options": {
+"A": "Dihybrid cross",
+"B": "Test cross",
+"C": "Monohybrid cross",
+"D": "Self-pollination"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Evolution",
+"questions": [
+{
+"question": "Who proposed the theory of evolution based on natural selection?",
+"options": {
+"A": "Jean Lamarck",
+"B": "Charles Darwin",
+"C": "Gregor Mendel",
+"D": "Theodor Schwann"
+},
+"answer": "B"
+},
+{
+"question": "Unrelated organisms evolving similar traits for the same function is called:",
+"options": {
+"A": "Divergent evolution",
+"B": "Co-evolution",
+"C": "Convergent evolution",
+"D": "Adaptive radiation"
+},
+"answer": "C"
+},
+{
+"question": "The process where interbreeding species split into two or more evolutionary groups is:",
+"options": {
+"A": "Convergent evolution",
+"B": "Divergent evolution",
+"C": "Co-evolution",
+"D": "Natural selection"
+},
+"answer": "B"
+}
+]
+},
+{
+"section": "Ecology",
+"questions": [
+{
+"question": "Organisms that manufacture their own food are called:",
+"options": {
+"A": "Heterotrophs",
+"B": "Autotrophs",
+"C": "Saprotrophs",
+"D": "Consumers"
+},
+"answer": "B"
+},
+{
+"question": "Primary consumers that feed directly on green plants are:",
+"options": {
+"A": "Carnivores",
+"B": "Herbivores",
+"C": "Omnivores",
+"D": "Decomposers"
+},
+"answer": "B"
+},
+{
+"question": "Bacteria and fungi that feed on dead organic matter are:",
+"options": {
+"A": "Primary producers",
+"B": "Saprotrophs",
+"C": "Herbivores",
+"D": "Secondary consumers"
+},
+"answer": "B"
+},
+{
+"question": "A river mouth where salt and fresh water meet is called a/an:",
+"options": {
+"A": "Marine habitat",
+"B": "Freshwater habitat",
+"C": "Estuarine habitat",
+"D": "Terrestrial habitat"
+},
+"answer": "C"
+}
+]
+},
+{
+"section": "Botanical Morphology: Roots and Stems",
+"questions": [
+{
+"question": "Plants that grow on other plants but produce their own food are called:",
+"options": {
+"A": "Parasites",
+"B": "Saprophytes",
+"C": "Epiphytes",
+"D": "Symbionts"
+},
+"answer": "C"
+},
+{
+"question": "Which underground modified stem consists of a fleshy, solid stem growing vertically, such as Cocoyam?",
+"options": {
+"A": "Rhizome",
+"B": "Bulb",
+"C": "Corm",
+"D": "Tuber"
+},
+"answer": "C"
+},
+{
+"question": "An underground modified shoot with a terminal bud and fleshy scale leaves, like an onion, is a:",
+"options": {
+"A": "Corm",
+"B": "Bulb",
+"C": "Rhizome",
+"D": "Sucker"
+},
+"answer": "B"
+},
+{
+"question": "Which of the following is a characteristic of Monocots?",
+"options": {
+"A": "Two cotyledons",
+"B": "Tap root system",
+"C": "Parallel venation",
+"D": "Vascular bundles in a ring"
+},
+"answer": "C"
+},
+{
+"question": "The flower stalk of a solitary flower is called a:",
+"options": {
+"A": "Peduncle",
+"B": "Petiole",
+"C": "Pedicel",
+"D": "Receptacle"
+},
+"answer": "C"
+},
+{
+"question": "The male reproductive organ of a flower is the:",
+"options": {
+"A": "Gynoecium",
+"B": "Androecium",
+"C": "Corolla",
+"D": "Calyx"
+},
+"answer": "B"
+},
+{
+"question": "A flower with only one of the two outer whorls (calyx or corolla) is described as:",
+"options": {
+"A": "Achlamydeous",
+"B": "Dichlamydeous",
+"C": "Monochlamydeous",
+"D": "Bisexual"
+},
+"answer": "C"
+},
+{
+"question": "What is the innermost floral whorl, representing the female reproductive organ?",
+"options": {
+"A": "Androecium",
+"B": "Gynoecium",
+"C": "Perianth",
+"D": "Stamen"
+},
+"answer": "B"
+},
+{
+"question": "Which leaf arrangement features two leaves at a node occurring in the same plane?",
+"options": {
+"A": "Alternate",
+"B": "Opposite (Superposed)",
+"C": "Opposite (Decussate)",
+"D": "Whorled"
+},
+"answer": "B"
+},
+{
+"question": "The symbiotic relationship between plant roots and fungi is known as:",
+"options": {
+"A": "Parasitism",
+"B": "Commensalism",
+"C": "Mycorrhiza",
+"D": "Epiphytism"
+},
+"answer": "C"
+},
+{
+"question": "Which cells impart hardness to nutshells and seed coats?",
+"options": {
+"A": "Fibers",
+"B": "Parenchyma",
+"C": "Sclereids",
+"D": "Collenchyma"
+},
+"answer": "C"
+},
+{
+"question": "A lateral branch developing from the underground part of a stem node, as in Banana, is a:",
+"options": {
+"A": "Runner",
+"B": "Sucker",
+"C": "Stolon",
+"D": "Offset"
+},
+"answer": "B"
+},
+{
+"question": "Which type of stem branching features a single continuous main axis, as in Pinus?",
+"options": {
+"A": "Cymose",
+"B": "Dichotomous",
+"C": "Monopodial",
+"D": "Uniparous"
+},
+"answer": "C"
+},
+{
+"question": "The position of an allele within a DNA molecule is the:",
+"options": {
+"A": "Gene",
+"B": "Locus",
+"C": "Centromere",
+"D": "Phenotype"
+},
+"answer": "B"
+},
+{
+"question": "The first offspring generation produced by crossing homozygous parental stocks is:",
+"options": {
+"A": "F2 generation",
+"B": "Test cross",
+"C": "F1 generation",
+"D": "Back cross"
+},
+"answer": "C"
+},
+{
+"question": "Organisms that feed on both plants and animals are:",
+"options": {
+"A": "Herbivores",
+"B": "Carnivores",
+"C": "Omnivores",
+"D": "Saprotrophs"
+},
+"answer": "C"
+}
+]
+}
+]
+}
