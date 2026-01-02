@@ -6,6 +6,13 @@ let timeLeft = 600;
 let timer;
 let submitted = false;
 
+const timerEl = document.getElementById("timer");
+const nextBtn = document.getElementById("nextBtn");
+const prevBtn = document.getElementById("prevBtn");
+const submitBtn = document.getElementById("submitBtn");
+const palette = document.getElementById("palette");
+const scoreSummary = document.getElementById("scoreSummary");
+const answerReview = document.getElementById("answerReview");
 const pages = document.querySelectorAll(".page");
 
 /* ---------------- PAGE NAV ---------------- */
@@ -143,12 +150,20 @@ function startTimer() {
   timer = setInterval(() => {
     timeLeft--;
 
-    const m = Math.floor(timeLeft / 60);
-    const s = timeLeft % 60;
-    timerEl.innerText = `${m}:${String(s).padStart(2, "0")}`;
+    const minutes = Math.floor(timeLeft / 60);
+    const seconds = timeLeft % 60;
 
-    if (timeLeft <= 60) timerEl.classList.add("red");
-    if (timeLeft <= 0) submitExam();
+    timerEl.textContent =
+      `${minutes}:${seconds.toString().padStart(2, "0")}`;
+
+    if (timeLeft <= 60) {
+      timerEl.classList.add("red");
+    }
+
+    if (timeLeft <= 0) {
+      clearInterval(timer);
+      submitExam();
+    }
   }, 1000);
 }
 
