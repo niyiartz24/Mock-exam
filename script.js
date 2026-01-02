@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ---------------- START EXAM ---------------- */
   document.getElementById("startExam").onclick = async () => {
     try {
-      const res = await fetch(`courses/${course}.json`);
+      const res = await fetch(`${course}.json`);
       if (!res.ok) throw new Error("Course file not found");
 
       const data = await res.json();
