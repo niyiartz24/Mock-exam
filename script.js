@@ -119,6 +119,124 @@ document.addEventListener("DOMContentLoaded", () => {
 
   prevBtn.onclick = () => {
     if (index > 0) index--;
+document.addEventListener("DOMContentLoaded", () => {
+
+  let course = "";
+  let questions = [];
+  let answers = [];
+  let index = 0;
+  let timeLeft = 600; // 10 minutes
+  let timer;
+  let submitted = false;
+
+  const timerEl = document.getElementById("timer");
+  const nextBtn = document.getElementById("nextBtn");
+  const prevBtn = document.getElementById("prevBtn");
+  const submitBtn = document.getElementById("submitBtn");
+  const palette = document.getElementById("palette");
+  const scoreSummary = document.getElementById("scoreSummary");
+  const answerReview = document.getElementById("answerReview");
+  const pages = document.querySelectorAll(".page");
+  const questionBox = document.getElementById("questionBox");
+
+  /* ---------------- PAGE NAV ---------------- */
+  function showPage(id) {
+    pages.forEach(p => p.classList.remove("active"));
+    document.getElementById(id).classList.add("active");
+  }
+
+  /* ---------------- COURSE SELECTION ---------------- */
+  document.querySelectorAll(".course-card").forEach(card => {
+    card.onclick = () => {
+      course = card.dataset.course.toLowerCase().replace(/\s+/g, ""); // CHM 101 → chm101
+      document.getElementById("courseTitle").innerText = card.querySelector("h3").innerText;
+      showPage("instructionPage");
+    };
+  });
+
+  /* ---------------- START EXAM ---------------- */
+  document.getElementById("startExam").onclick = async () => {
+    try {
+      showLoading(true);
+
+      // Fetch JSON from data folder
+      const res = await fetch(`data/${course}.json`);
+      if (!res.ok) throw new Error("Course file not found");
+
+      const data = await res.json();
+
+      // Flatten sections → single array of questions
+      questions = flatten(data)
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 40);
+
+      answers = Array(questions.length).fill(null);
+      index = 0;
+      submitted = false;
+      timeLeft = 600;
+
+      showPage("examPage");
+      buildPalette();
+      loadQuestion();
+      startTimer();
+
+    } catch (err) {
+      alert(`Error loading exam: ${err.message}`);
+      console.error(err);
+    } finally {
+      showLoading(false);
+    }
+  };
+
+  /* ---------------- FLATTEN JSON ---------------- */
+  function flatten(data) {
+    let out = [];
+    data.sections.forEach(section => {
+      section.questions.forEach(q => {
+        out.push({
+          section: section.section,
+          text: q.question,
+          options: Object.values(q.options),
+          correct: Object.keys(q.options).indexOf(q.answer)
+        });
+      });
+    });
+    return out;
+  }
+
+  /* ---------------- LOAD QUESTION ---------------- */
+  function loadQuestion() {
+    if (!questions[index]) return;
+
+    const q = questions[index];
+
+    document.getElementById("questionCounter").innerText = `Question ${index + 1} of ${questions.length}`;
+    document.getElementById("progressBar").style.width = `${((index + 1) / questions.length) * 100}%`;
+
+    let html = `<small>${q.section}</small><h3>${q.text}</h3>`;
+
+    q.options.forEach((opt, i) => {
+      html += `<div class="option ${answers[index] === i ? "selected" : ""}" onclick="selectAnswer(${i})">${opt}</div>`;
+    });
+
+    questionBox.innerHTML = html;
+    updatePalette();
+  }
+
+  // Make selectAnswer global
+  window.selectAnswer = function(i) {
+    if (submitted) return;
+    answers[index] = i;
+    loadQuestion();
+  };
+
+  /* ---------------- NAVIGATION ---------------- */
+  nextBtn.onclick = () => {
+    if (index < questions.length - 1) index++;
+    loadQuestion();
+  };
+  prevBtn.onclick = () => {
+    if (index > 0) index--;
     loadQuestion();
   };
 
@@ -146,8 +264,7 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ---------------- TIMER ---------------- */
   function startTimer() {
     clearInterval(timer);
-
-    timerEl.classList.remove("red"); // reset color
+    timerEl.classList.remove("red");
 
     timer = setInterval(() => {
       if (timeLeft <= 0) {
@@ -161,9 +278,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       timerEl.textContent = `${minutes}:${seconds.toString().padStart(2, "0")}`;
 
-      if (timeLeft <= 60) {
-        timerEl.classList.add("red");
-      }
+      if (timeLeft <= 60) timerEl.classList.add("red");
 
       timeLeft--;
     }, 1000);
@@ -185,9 +300,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       review += `<p><b>${q.text}</b></p>`;
       q.options.forEach((opt, j) => {
-        let cls =
-          j === q.correct ? "correct" :
-          j === answers[i] ? "wrong" : "";
+        let cls = j === q.correct ? "correct" : j === answers[i] ? "wrong" : "";
         review += `<div class="option ${cls}">${opt}</div>`;
       });
     });
@@ -196,12 +309,24 @@ document.addEventListener("DOMContentLoaded", () => {
       <p><b>Score:</b> ${score}/${questions.length}</p>
       <p><b>Percentage:</b> ${(score / questions.length * 100).toFixed(1)}%</p>
     `;
-
     answerReview.innerHTML = review;
+
     showPage("resultPage");
   }
 
-  window.onbeforeunload = () =>
-    submitted ? null : "Exam in progress!";
+  /* ---------------- PREVENT ACCIDENTAL LEAVE ---------------- */
+  window.onbeforeunload = () => submitted ? null : "Exam in progress!";
+
+  /* ---------------- LOADING SPINNER ---------------- */
+  function showLoading(show) {
+    let spinner = document.getElementById("loadingSpinner");
+    if (!spinner) {
+      spinner = document.createElement("div");
+      spinner.id = "loadingSpinner";
+      spinner.innerHTML = `<div class="spinner"></div>`;
+      document.body.appendChild(spinner);
+    }
+    spinner.style.display = show ? "flex" : "none";
+  }
 
 });
